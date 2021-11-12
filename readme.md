@@ -16,7 +16,7 @@ This is a simple project with docker and node
 ```html
     git clone https://github.com/Aristeu-dev/docker-with-node.git
 ```
-- ##### In the project root directory
+- In the project root directory
 ```html
     docker build -f Dockerfile -t aristeug/node .
 ```
