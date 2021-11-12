@@ -6,8 +6,8 @@
 This is a simple project with docker and node
 
 #### Technologies
-- DOCKER
-- NODE 
+- Docker
+- Node.js 
 - HTML
 - CSS
 
